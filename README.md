@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <h3>Recent Projects</h3>
 
-[![Twitch Slack notifier](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=Twitch-notifier)](https://github.com/martapanc/Twitch-notifier) 
+<!-- [![Twitch Slack notifier](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=Twitch-notifier)](https://github.com/martapanc/Twitch-notifier) -->
 [![Italian Fiscal Code App](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=ItalianFiscalCodeCalculatorApp)](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
-[![My website](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=react-gh-pages)](https://github.com/martapanc/react-gh-pages)
+[<!-- ![My website](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=react-gh-pages)](https://github.com/martapanc/react-gh-pages) -->
 [![Bamboo-build-deploy-status](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=Bamboo-build-deploy-status)](https://github.com/martapanc/Bamboo-build-deploy-status) 
