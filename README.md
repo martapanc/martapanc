@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <h2 align="center">Hi there 👋, this is Marta!</h2>
 <h4 align="center">A passionate Software Engineer from the UK/Italy.</h4>
 
+<img align ="right" src="pics/octocat-flipped.png" width="150" height="150">
+
 - 🌱 &nbsp; I’m currently learning... **Kotlin & Android development**
 
 - 📚 &nbsp; I'm currently studying for... the **Java SE Programmer certification**
