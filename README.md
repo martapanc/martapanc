@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 - 📚 &nbsp; I'm currently studying for... the **Java SE Programmer certification**
 
+- 📝 &nbsp; I'm looking to learn... **Flutter, Electron, Swift**.
+
 - 👨‍💻 &nbsp; All of my projects are available at [mpancaldi.netlify.app](https://mpancaldi.netlify.app/projects)
 
 - 📫 &nbsp; Reach out to me at **marta.panc AT gmail.com**
