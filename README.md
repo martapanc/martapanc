@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="center">Hi there 👋, this is Marta!</h2>
 <h4 align="center">A passionate Software Engineer from the UK/Italy.</h4>
 
-<img align ="right" src="pics/octocat-flipped.png" width="150" height="150">
+<img align ="right" src="pics/octocat-flipped.png" width="180" height="180">
 
 - 🌱 &nbsp; I’m currently learning... **Kotlin & Android development**
 
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 👨‍💻 &nbsp; All of my projects are available at [mpancaldi.netlify.app](https://mpancaldi.netlify.app/projects)
 
 - 📫 &nbsp; Reach out to me at **marta.panc AT gmail.com**
+
 
 <h3 align="center">My skills</h3>
 
