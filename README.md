@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 <h2 align="center">Hi there 👋, this is Marta!</h2>
 <h4 align="center">A passionate Software Engineer from the UK/Italy.</h4>
 
-- 👨‍💻 All of my projects are available at [mpancaldi.netlify.app](https://mpancaldi.netlify.app/projects)
+- 🌱 &nbsp; I’m currently learning... **Kotlin & Android development**
 
-- 📫 Reach out to me at **marta.panc AT gmail.com**
+- 📚 &nbsp; I'm currently studying for... the **Java SE Programmer certification**
+
+- 👨‍💻 &nbsp; All of my projects are available at [mpancaldi.netlify.app](https://mpancaldi.netlify.app/projects)
+
+- 📫 &nbsp; Reach out to me at **marta.panc AT gmail.com**
 
 <h3 align="center">My skills</h3>
 
@@ -45,3 +49,10 @@ Here are some ideas to get you started:
 <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
+
+<h3>Recent Projects</h3>
+
+[![Twitch Slack notifier](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=Twitch-notifier)](https://github.com/martapanc/Twitch-notifier) 
+[![Italian Fiscal Code App](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=ItalianFiscalCodeCalculatorApp)](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
+[![My website](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=react-gh-pages)](https://github.com/martapanc/react-gh-pages)
+[![Bamboo-build-deploy-status](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=Bamboo-build-deploy-status)](https://github.com/martapanc/Bamboo-build-deploy-status) 
