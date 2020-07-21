@@ -54,6 +54,11 @@ Here are some ideas to get you started:
 <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
+<h3>This week I've been working with...</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3>Recent Projects</h3>
 
 [![Twitch Slack notifier](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=Twitch-notifier)](https://github.com/martapanc/Twitch-notifier) 
