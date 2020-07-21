@@ -13,7 +13,8 @@
 
 - 👨‍💻 &nbsp; All of my projects are available at [mpancaldi.netlify.app](https://mpancaldi.netlify.app/projects)
 
-- 🌐 &nbsp; Languages I speak... 🇬🇧 🇮🇹 🇩🇪
+- 🌐 &nbsp; Languages I speak... &nbsp; <img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/gb.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/it.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/de.png" alt="gb" width="35" height="20"/>
+
 
 - 📫 &nbsp; Reach out to me at **marta.panc AT gmail.com**
 
@@ -22,7 +23,6 @@
 <h3 align="center">My skills</h3>
 
 <p align="left">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android" width="40" height="40"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
