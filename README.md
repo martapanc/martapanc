@@ -1,22 +1,5 @@
-
-
-<!--
-**martapanc/martapanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center">Hi there 👋, this is Marta!</h2>
-<h4 align="center">A passionate Software Engineer from the UK/Italy.</h4>
+<h2 align="center">Hi there! 👋 </h2>
+<h4 align="center">I'm Marta, and I write code for work and for fun.</h4>
 
 <img align ="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="200" height="200">
 
@@ -29,6 +12,8 @@ Here are some ideas to get you started:
 - 📝 &nbsp; I'm looking to learn... **Flutter, Electron, Swift**.
 
 - 👨‍💻 &nbsp; All of my projects are available at [mpancaldi.netlify.app](https://mpancaldi.netlify.app/projects)
+
+- 🌐 &nbsp; Languages I speak... 🇬🇧 🇮🇹 🇩🇪
 
 - 📫 &nbsp; Reach out to me at **marta.panc AT gmail.com**
 
