@@ -43,7 +43,9 @@
 <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
-<!-- <h3>📊 This week I've been working with...</h3> -->
+<br/>
+
+<h3>📊 This week I've been working with...</h3>
 
 <!--START_SECTION:waka-->
 ```text
