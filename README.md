@@ -61,6 +61,9 @@ Here are some ideas to get you started:
 <h3>This week I've been working with...</h3>
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
 
 <h3>Recent Projects</h3>
