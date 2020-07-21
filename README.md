@@ -61,11 +61,6 @@ Here are some ideas to get you started:
 <!-- <h3>📊 This week I've been working with...</h3> -->
 
 <!--START_SECTION:waka-->
-```text
-Week: 13 July, 2020 - 20 July, 2020
-
-
-```
 <!--END_SECTION:waka-->
 
 <h3>Recent Projects</h3>
