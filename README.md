@@ -57,6 +57,8 @@ Groovy   2 hrs 3 mins    █░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+![My stats](https://github-readme-stats.vercel.app/api?username=martapanc&show_icons=true)
+
 <h3>Recent Projects</h3>
 
 <!-- [![Twitch Slack notifier](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=Twitch-notifier)](https://github.com/martapanc/Twitch-notifier) -->
