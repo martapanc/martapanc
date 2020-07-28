@@ -1,7 +1,7 @@
 <h2 align="center">Hi there! 👋 </h2>
 <h4 align="center">I'm Marta, and I write code for work and for fun.</h4>
 
-<img align ="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="200" height="200">
+<img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
 
 <br/>
 
