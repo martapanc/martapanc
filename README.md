@@ -65,4 +65,3 @@ Groovy       2 hrs 47 mins   █░░░░░░░░░░░░░░░░
 <!-- [![My website](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=react-gh-pages)](https://github.com/martapanc/react-gh-pages) -->
 [![Weather Forecast Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=React-Weather-Dashboard)](https://github.com/martapanc/React-Weather-Dashboard)
 [![Italian Fiscal Code App](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=ItalianFiscalCodeCalculatorApp)](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
-<!-- [![Bamboo-build-deploy-status](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=Bamboo-build-deploy-status)](https://github.com/martapanc/Bamboo-build-deploy-status) -->
