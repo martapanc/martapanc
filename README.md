@@ -45,6 +45,7 @@
 
 <br/>
 
+<!--
 <h3>📊 This week I've been working with...</h3>
 
 <!--START_SECTION:waka-->
@@ -56,6 +57,8 @@ JavaScript   49 mins         ▓░░░░░░░░░░░░░░░░
 Groovy       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 <!--END_SECTION:waka-->
+
+-->
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=martapanc&show_icons=true)
 
