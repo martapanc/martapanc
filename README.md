@@ -11,7 +11,7 @@
 
 - 📝 &nbsp; I'm looking to learn... **Flutter, Electron, Swift**. 
 
-- 🌐 &nbsp; Languages I speak... &nbsp; <img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/gb.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/it.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/de.png" alt="gb" width="35" height="20"/>
+- 🌐 &nbsp; Languages I speak... <img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/gb.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/it.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/de.png" alt="gb" width="35" height="20"/>
 
 - 👨‍💻 &nbsp; All my projects are available at [mpancaldi.co.uk](https://mpancaldi.co.uk)
 
