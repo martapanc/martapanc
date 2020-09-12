@@ -1,7 +1,12 @@
 <h2 align="center">Hi there! 👋 </h2>
 <h4 align="center">I'm Marta, and I write code for work and for fun.</h4>
 
-<!--[![Instagram](https://www.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png)](https://www.instagram.com/pancakemarta) -->
+[![Website](icons/www_32.png)](https://mpancaldi.co.uk)&nbsp; 
+[![Linkedin](icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/)&nbsp; 
+[![Instagram](icons/instagram.png)](https://www.instagram.com/pancakemarta/)&nbsp; 
+[![Reddit](icons/reddit.png)](https://www.reddit.com/user/pancaldim)&nbsp; 
+[![Steam](icons/steam.png)](https://steamcommunity.com/id/martap/)&nbsp; 
+[![Codewars](icons/codewars_32.png)](https://www.codewars.com/users/martapanc/)&nbsp; 
 ![](https://komarev.com/ghpvc/?username=martapanc)
 
 <img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
