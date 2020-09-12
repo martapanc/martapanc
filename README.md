@@ -3,6 +3,7 @@
 
 [![Website](https://github.com/martapanc/martapanc/blob/master/icons/www.png)](https://mpancaldi.co.uk)&nbsp; 
 [![Linkedin](https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/)&nbsp; 
+[![Medium](https://github.com/martapanc/martapanc/blob/master/icons/medium.png)](https://medium.com/@marta.panc/)&nbsp; 
 [![Instagram](https://github.com/martapanc/martapanc/blob/master/icons/instagram.png)](https://www.instagram.com/pancakemarta/)&nbsp; 
 [![Reddit](https://github.com/martapanc/martapanc/blob/master/icons/reddit.png)](https://www.reddit.com/user/pancaldim)&nbsp; 
 [![Steam](https://github.com/martapanc/martapanc/blob/master/icons/steam.png)](https://steamcommunity.com/id/martap/)&nbsp; 
