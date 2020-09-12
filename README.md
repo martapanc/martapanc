@@ -1,6 +1,9 @@
 <h2 align="center">Hi there! 👋 </h2>
 <h4 align="center">I'm Marta, and I write code for work and for fun.</h4>
 
+<!--[![Instagram](https://www.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png)](https://www.instagram.com/pancakemarta) -->
+![](https://komarev.com/ghpvc/?username=martapanc)
+
 <img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
 
 <br/>
@@ -52,3 +55,4 @@
 <!-- [![My website](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=react-gh-pages)](https://github.com/martapanc/react-gh-pages) -->
 [![Weather Forecast Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=React-Weather-Dashboard)](https://github.com/martapanc/React-Weather-Dashboard)
 [![Italian Fiscal Code App](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=ItalianFiscalCodeCalculatorApp)](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
+
