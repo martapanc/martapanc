@@ -1,4 +1,5 @@
-<h2 align="center">Hi there! 👋 </h2>
+<img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world.gif" width="240" height="240">
+
 <h4 align="center">I'm Marta, and I write code for work and for fun.</h4>
 
 [![Website](https://github.com/martapanc/martapanc/blob/master/icons/www.png)](https://mpancaldi.co.uk)&nbsp; 
