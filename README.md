@@ -4,6 +4,7 @@
 </p>
 <h3 align="center">I'm Marta, and I write code for work and for fun.</h3>
 
+<p align="center">
 [![Website](https://github.com/martapanc/martapanc/blob/master/icons/www.png)](https://mpancaldi.co.uk)&nbsp; 
 [![Linkedin](https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/)&nbsp; 
 [![Medium](https://github.com/martapanc/martapanc/blob/master/icons/medium.png)](https://medium.com/@marta.panc/)&nbsp; 
@@ -14,6 +15,7 @@
 [![Steam](https://github.com/martapanc/martapanc/blob/master/icons/steam.png)](https://steamcommunity.com/id/martap/)&nbsp; 
 [![Codewars](https://github.com/martapanc/martapanc/blob/master/icons/codewars.png)](https://www.codewars.com/users/martapanc/)&nbsp; 
 ![](https://komarev.com/ghpvc/?username=martapanc)
+</p>
 
 <img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
 
