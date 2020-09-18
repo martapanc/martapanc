@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world_terminal.gif" height="340">
+    <img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world_terminal.gif" height="240">
 </p>
 <h3 align="center">I'm Marta, and I write code for work and for fun.</h3>
 
