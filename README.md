@@ -1,6 +1,8 @@
-<img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world_terminal.gif" height="240">
 
-<h4 align="center">I'm Marta, and I write code for work and for fun.</h4>
+<p align="center">
+    <img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world_terminal.gif" height="340">
+</p>
+<h3 align="center">I'm Marta, and I write code for work and for fun.</h3>
 
 [![Website](https://github.com/martapanc/martapanc/blob/master/icons/www.png)](https://mpancaldi.co.uk)&nbsp; 
 [![Linkedin](https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/)&nbsp; 
