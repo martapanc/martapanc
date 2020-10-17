@@ -20,11 +20,11 @@
 
 <br/>
 
-- 🌱 &nbsp; I’m currently learning... **Kotlin & Java + React Native for Android development**
+- 🌱 &nbsp; I’m currently learning... **Kotlin & Java for Android development**
 
 - 📚 &nbsp; I'm currently studying for... the **Java SE Programmer certification**
 
-- 📝 &nbsp; I'm looking to learn... **Flutter, Electron, Swift**. 
+- 📝 &nbsp; I'm looking to learn... **Flutter, React Native, Swift**. 
 
 - 🌐 &nbsp; Languages I speak... <img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/gb.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/it.png" alt="it" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/de.png" alt="de" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/fr.png" alt="fr" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/master/png100px/es.png" alt="es" width="35" height="20"/>
 
