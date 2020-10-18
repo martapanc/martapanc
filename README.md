@@ -20,7 +20,7 @@
 
 <br/>
 
-- 🌱 &nbsp; I’m currently learning... **Kotlin & Java for Android development**
+- 🌱 &nbsp; I’m currently learning... **Java & Kotlin for Android development**
 
 - 📚 &nbsp; I'm currently studying for... the **Java SE Programmer certification**
 
