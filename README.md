@@ -30,7 +30,7 @@
 
 - 👨‍💻 &nbsp; All my projects are available at [mpancaldi.co.uk](https://mpancaldi.co.uk)
 
-- 📫 &nbsp; Reach out to me at **marta.panc AT gmail.com**
+- 📫 &nbsp; Reach out to me at **mpancaldi AT outlook.com**
 
 <br/>
 
