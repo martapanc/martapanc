@@ -14,6 +14,7 @@
 [![Reddit](https://github.com/martapanc/martapanc/blob/master/icons/reddit.png)](https://www.reddit.com/user/pancaldim)&nbsp; 
 [![Steam](https://github.com/martapanc/martapanc/blob/master/icons/steam.png)](https://steamcommunity.com/id/martap/)&nbsp; 
 [![Codewars](https://github.com/martapanc/martapanc/blob/master/icons/codewars.png)](https://www.codewars.com/users/martapanc/)&nbsp; 
+[![Goodreads](https://github.com/martapanc/martapanc/blob/master/icons/goodreads.png)](https://www.goodreads.com/topolinamarta/)&nbsp; 
 ![](https://komarev.com/ghpvc/?username=martapanc)
 
 <img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
