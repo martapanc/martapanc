@@ -21,6 +21,8 @@
 
 <br/>
 
+- 🎄 &nbsp; I’m doing the [**Advent of Code 2020**](https://adventofcode.com/2020) challenges using <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="20" />**otlin**
+
 - 🌱 &nbsp; I’m currently learning... **Java & Kotlin for Android development**
 
 - 📚 &nbsp; I'm currently studying for... the **Java SE Programmer certification**
