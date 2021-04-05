@@ -23,8 +23,6 @@
 
 - 🌱 &nbsp; I’m currently learning... **Java & Kotlin for Android development**
 
-- 📚 &nbsp; I'm currently studying for... the **Java SE Programmer certification**
-
 - 📝 &nbsp; I'm looking to learn... **Flutter, React Native, Swift**. 
 
 - 🎄 &nbsp; I've recently obtained 300 ⭐️ &nbsp;at the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) challenges
