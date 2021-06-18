@@ -9,9 +9,7 @@
 [![Linkedin](https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/)&nbsp; 
 [![Medium](https://github.com/martapanc/martapanc/blob/master/icons/medium.png)](https://medium.com/@marta.panc/)&nbsp; 
 [![Instagram](https://github.com/martapanc/martapanc/blob/master/icons/instagram.png)](https://www.instagram.com/pancakemarta/)&nbsp; 
-[![Twitter](https://github.com/martapanc/martapanc/blob/master/icons/twitter_32.png)](https://twitter.com/_pancakem_)&nbsp; 
 [![Youtube](https://github.com/martapanc/martapanc/blob/master/icons/youtube.png)](https://www.youtube.com/channel/UCvQWDSKE8fY7srB8hO1vWNw)&nbsp; 
-[![Reddit](https://github.com/martapanc/martapanc/blob/master/icons/reddit.png)](https://www.reddit.com/user/pancaldim)&nbsp; 
 [![Steam](https://github.com/martapanc/martapanc/blob/master/icons/steam.png)](https://steamcommunity.com/id/martap/)&nbsp; 
 [![Codewars](https://github.com/martapanc/martapanc/blob/master/icons/codewars.png)](https://www.codewars.com/users/martapanc/)&nbsp; 
 [![Goodreads](https://github.com/martapanc/martapanc/blob/master/icons/goodreads.png)](https://www.goodreads.com/topolinamarta/)&nbsp; 
