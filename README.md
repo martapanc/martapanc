@@ -5,7 +5,7 @@
 <h3 align="center">I'm Marta, and I write code for work and for fun.</h3>
 &nbsp;
 
-[![Website](https://github.com/martapanc/martapanc/blob/master/icons/www.png)](https://mpancaldi.co.uk)&nbsp; 
+[![Website](https://github.com/martapanc/martapanc/blob/master/icons/www.png)](https://mpancaldi.web.app/)&nbsp; 
 [![Linkedin](https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/)&nbsp; 
 [![Medium](https://github.com/martapanc/martapanc/blob/master/icons/medium.png)](https://medium.com/@marta.panc/)&nbsp; 
 [![Instagram](https://github.com/martapanc/martapanc/blob/master/icons/instagram.png)](https://www.instagram.com/pancakemarta/)&nbsp; 
@@ -27,7 +27,7 @@
 
 - 🌐 &nbsp; Languages I speak... <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/gb.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/it.png" alt="it" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/de.png" alt="de" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/fr.png" alt="fr" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/es.png" alt="es" width="35" height="20"/>
 
-- 👨‍💻 &nbsp; All my projects are available at [mpancaldi.co.uk](https://mpancaldi.co.uk)
+- 👨‍💻 &nbsp; All my projects are available at [mpancaldi.web.app](https://mpancaldi.web.app/)
 
 - 📫 &nbsp; Reach out to me at **mpancaldi AT outlook.com**
 
