@@ -19,11 +19,11 @@
 
 <br/>
 
+- 🎄 &nbsp; I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2021 challenges
+
 - 🌱 &nbsp; I’m currently learning... **Java & Kotlin for Android development**
 
 - 📝 &nbsp; I'm looking to learn... **Flutter, React Native, Swift**. 
-
-- 🎄 &nbsp; I've recently obtained 300 ⭐️ &nbsp;at the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) challenges
 
 - 🌐 &nbsp; Languages I speak... <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/gb.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/it.png" alt="it" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/de.png" alt="de" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/fr.png" alt="fr" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/es.png" alt="es" width="35" height="20"/>
 
