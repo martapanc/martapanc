@@ -19,7 +19,7 @@
 
 <br/>
 
-- 🎄 &nbsp; I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2021 challenges
+- 🎄 &nbsp; I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2022 challenges
 
 - 🌱 &nbsp; I’m currently learning... **Java & Kotlin for Android development**
 
