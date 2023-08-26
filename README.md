@@ -19,15 +19,15 @@
 <br/>
 
 *   🎄   I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2022 challenges
-
+    <br/>
 *   🌱   I’m currently learning... **Java & Kotlin for Android development**
-
+    <br/>
 *   📝   I'm looking to learn... **Flutter, React Native, Swift**.
-
+    <br/>
 *   🌐   Languages I speak... <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/gb.png" alt="gb" width="35" height="20"/> <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/it.png" alt="it" width="35" height="20"/> <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/de.png" alt="de" width="35" height="20"/> <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/fr.png" alt="fr" width="35" height="20"/> <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/es.png" alt="es" width="35" height="20"/>
-
+    <br/>
 *   👨‍💻   All my projects are available at [mpancaldi.web.app](https://mpancaldi.web.app/)
-
+    <br/>
 *   📫   Reach out to me at **mpancaldi AT outlook.com**
 
 <br/>
