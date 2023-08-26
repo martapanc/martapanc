@@ -1,4 +1,3 @@
-
 <p align="center">
     <img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world_terminal.gif" height="220">
 </p>
@@ -19,17 +18,17 @@
 
 <br/>
 
-- 🎄 &nbsp; I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2022 challenges
+  - 🎄 &nbsp; I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2022 challenges
 
-- 🌱 &nbsp; I’m currently learning... **Java & Kotlin for Android development**
+  - 🌱 &nbsp; I’m currently learning... **Java & Kotlin for Android development**
 
-- 📝 &nbsp; I'm looking to learn... **Flutter, React Native, Swift**. 
+  - 📝 &nbsp; I'm looking to learn... **Flutter, React Native, Swift**. 
 
-- 🌐 &nbsp; Languages I speak... <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/gb.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/it.png" alt="it" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/de.png" alt="de" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/fr.png" alt="fr" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/es.png" alt="es" width="35" height="20"/>
+  - 🌐 &nbsp; Languages I speak... <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/gb.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/it.png" alt="it" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/de.png" alt="de" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/fr.png" alt="fr" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/es.png" alt="es" width="35" height="20"/>
 
-- 👨‍💻 &nbsp; All my projects are available at [mpancaldi.web.app](https://mpancaldi.web.app/)
+  - 👨‍💻 &nbsp; All my projects are available at [mpancaldi.web.app](https://mpancaldi.web.app/)
 
-- 📫 &nbsp; Reach out to me at **mpancaldi AT outlook.com**
+  - 📫 &nbsp; Reach out to me at **mpancaldi AT outlook.com**
 
 <br/>
 
@@ -81,6 +80,3 @@
 [![Italian Fiscal Code App](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=ItalianFiscalCodeCalculatorApp)](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
 
 <h3 align="center"><a href="https://martas-links.vercel.app">🔗 Links</a></h3>
-
-
-
