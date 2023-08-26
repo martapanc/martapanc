@@ -4,31 +4,31 @@
 <h3 align="center">I'm Marta, and I write code for work and for fun.</h3>
 &nbsp;
 
-[![Website](https://github.com/martapanc/martapanc/blob/master/icons/www.png)](https://mpancaldi.web.app/)&nbsp; 
-[![Linkedin](https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/)&nbsp; 
-[![Medium](https://github.com/martapanc/martapanc/blob/master/icons/medium.png)](https://medium.com/@marta.panc/)&nbsp; 
-[![Instagram](https://github.com/martapanc/martapanc/blob/master/icons/instagram.png)](https://www.instagram.com/pancakemarta/)&nbsp; 
-[![Youtube](https://github.com/martapanc/martapanc/blob/master/icons/youtube.png)](https://www.youtube.com/channel/UCvQWDSKE8fY7srB8hO1vWNw)&nbsp; 
-[![Steam](https://github.com/martapanc/martapanc/blob/master/icons/steam.png)](https://steamcommunity.com/id/martap/)&nbsp; 
-[![Codewars](https://github.com/martapanc/martapanc/blob/master/icons/codewars.png)](https://www.codewars.com/users/martapanc/)&nbsp; 
-[![Goodreads](https://github.com/martapanc/martapanc/blob/master/icons/goodreads.png)](https://www.goodreads.com/topolinamarta/)&nbsp; 
+[![Website](https://github.com/martapanc/martapanc/blob/master/icons/www.png)](https://mpancaldi.web.app/) 
+[![Linkedin](https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/) 
+[![Medium](https://github.com/martapanc/martapanc/blob/master/icons/medium.png)](https://medium.com/@marta.panc/) 
+[![Instagram](https://github.com/martapanc/martapanc/blob/master/icons/instagram.png)](https://www.instagram.com/pancakemarta/) 
+[![Youtube](https://github.com/martapanc/martapanc/blob/master/icons/youtube.png)](https://www.youtube.com/channel/UCvQWDSKE8fY7srB8hO1vWNw) 
+[![Steam](https://github.com/martapanc/martapanc/blob/master/icons/steam.png)](https://steamcommunity.com/id/martap/) 
+[![Codewars](https://github.com/martapanc/martapanc/blob/master/icons/codewars.png)](https://www.codewars.com/users/martapanc/) 
+[![Goodreads](https://github.com/martapanc/martapanc/blob/master/icons/goodreads.png)](https://www.goodreads.com/topolinamarta/) 
 ![](https://komarev.com/ghpvc/?username=martapanc)
 
 <img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
 
 <br/>
 
-  - 🎄 &nbsp; I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2022 challenges
+*   🎄   I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2022 challenges
 
-  - 🌱 &nbsp; I’m currently learning... **Java & Kotlin for Android development**
+*   🌱   I’m currently learning... **Java & Kotlin for Android development**
 
-  - 📝 &nbsp; I'm looking to learn... **Flutter, React Native, Swift**. 
+*   📝   I'm looking to learn... **Flutter, React Native, Swift**.
 
-  - 🌐 &nbsp; Languages I speak... <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/gb.png" alt="gb" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/it.png" alt="it" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/de.png" alt="de" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/fr.png" alt="fr" width="35" height="20"/>&nbsp;<img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/es.png" alt="es" width="35" height="20"/>
+*   🌐   Languages I speak... <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/gb.png" alt="gb" width="35" height="20"/> <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/it.png" alt="it" width="35" height="20"/> <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/de.png" alt="de" width="35" height="20"/> <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/fr.png" alt="fr" width="35" height="20"/> <img src="https://github.com/hjnilsson/country-flags/blob/main/png100px/es.png" alt="es" width="35" height="20"/>
 
-  - 👨‍💻 &nbsp; All my projects are available at [mpancaldi.web.app](https://mpancaldi.web.app/)
+*   👨‍💻   All my projects are available at [mpancaldi.web.app](https://mpancaldi.web.app/)
 
-  - 📫 &nbsp; Reach out to me at **mpancaldi AT outlook.com**
+*   📫   Reach out to me at **mpancaldi AT outlook.com**
 
 <br/>
 
@@ -70,13 +70,13 @@
 
 <br/>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=martapanc&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=martapanc\&show_icons=true)
 
 <h3 align="center">💻 Recent Projects</h3>
 
-[![Twitch Slack notifier](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=Twitch-notifier)](https://github.com/martapanc/Twitch-notifier)
-[![My website](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=martacodes.it)](https://github.com/martapanc/martacodes.it)
-[![Weather Forecast Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=React-Weather-Dashboard)](https://github.com/martapanc/React-Weather-Dashboard)
-[![Italian Fiscal Code App](https://github-readme-stats.vercel.app/api/pin/?username=martapanc&repo=ItalianFiscalCodeCalculatorApp)](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
+[![Twitch Slack notifier](https://github-readme-stats.vercel.app/api/pin/?username=martapanc\&repo=Twitch-notifier)](https://github.com/martapanc/Twitch-notifier)
+[![My website](https://github-readme-stats.vercel.app/api/pin/?username=martapanc\&repo=martacodes.it)](https://github.com/martapanc/martacodes.it)
+[![Weather Forecast Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=martapanc\&repo=React-Weather-Dashboard)](https://github.com/martapanc/React-Weather-Dashboard)
+[![Italian Fiscal Code App](https://github-readme-stats.vercel.app/api/pin/?username=martapanc\&repo=ItalianFiscalCodeCalculatorApp)](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
 
 <h3 align="center"><a href="https://martas-links.vercel.app">🔗 Links</a></h3>
