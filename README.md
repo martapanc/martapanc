@@ -31,6 +31,8 @@
 *   📫   Reach out to me at **mpancaldi AT outlook.com**
 
 <br/>
+<br/>
+<br/>
 
 <h3 align="center">🛠️ My skills</h3>
 
