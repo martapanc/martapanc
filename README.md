@@ -29,7 +29,7 @@
     <br/>
 *   👨‍💻   All my projects are available on [martacodes.it](https://martacodes.it/)
     <br/>
-*   📫   Reach out to me at **mpancaldi AT outlook.com**
+*   📫   Reach out to me at **marta_panc AT me.com**
 
 <br/>
 <br/>
