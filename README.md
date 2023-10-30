@@ -21,7 +21,7 @@
 
 *   🎄   I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2022 challenges
     <br/>
-*   🌱   I’m currently learning... **Java & Kotlin for Android development**
+*   🌱   I’m currently learning... **Figma & UI/UX Design**
     <br/>
 *   📝   I'm looking to learn... **Flutter, React Native, Swift**.
     <br/>
