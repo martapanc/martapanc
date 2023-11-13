@@ -3,7 +3,8 @@
 </p>
 
 <h3 align="center">I'm Marta, and I write code for work and for fun.</h3>
-&nbsp;
+
+<br/>
 
 [![Website](https://github.com/martapanc/martapanc/blob/master/icons/www.png)](https://martacodes.it/) 
 [![Linkedin](https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/) 
