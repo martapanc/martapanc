@@ -18,10 +18,10 @@
 
 <img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
 
-<br/>
-
+<!-- <br/> 
 *   🎄   I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2023 challenges
-    <br/>
+    <br/> 
+-->
 *   🌱   I’m currently learning... **Figma & UI/UX Design**
     <br/>
 *   📝   I'm looking to learn... **Flutter, React Native, Swift**.
