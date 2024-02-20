@@ -16,7 +16,9 @@
 [![Goodreads](https://github.com/martapanc/martapanc/blob/master/icons/goodreads.png)](https://www.goodreads.com/topolinamarta/) 
 ![](https://komarev.com/ghpvc/?username=martapanc)
 
+<!--
 <img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
+-->
 
 <!-- <br/> 
 *   🎄   I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2023 challenges
@@ -32,10 +34,6 @@
     <br/>
 *   📫   Reach out to me at **marta_panc AT me.com**
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 <h3 align="center">🛠️ My skills</h3>
 
