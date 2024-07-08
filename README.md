@@ -26,7 +26,7 @@
 -->
 *   🌱   I’m currently learning... **Figma & UI/UX Design**
     <br/>
-*   📝   I'm looking to learn... **Flutter, React Native, Swift**.
+*   📝   I'm looking to learn... **Swift for iOS development**.
     <br/>
 *   🌐   Languages I speak... <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" alt="gb" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/it.svg" alt="it" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" alt="de" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/fr.svg" alt="fr" width="35" height="20"/> 
     <br/>
