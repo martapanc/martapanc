@@ -24,7 +24,7 @@
 *   🎄   I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2023 challenges
     <br/> 
 -->
-*   🌱   I’m currently learning... **AstroJS**
+*   🌱   I’m currently learning... **AstroJS** & **React Native**
     <br/>
 *   📝   I'm looking to learn... **Swift for iOS development**.
     <br/>
