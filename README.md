@@ -20,7 +20,7 @@
 <img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
 -->
 
-<br/> 
+
 *   🎄   I'm preparing for the the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2024 challenges
     <br/> 
 
