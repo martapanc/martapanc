@@ -21,7 +21,7 @@
 -->
 
 <!-- <br/> 
-*   🎄   I'm doing the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2023 challenges
+*   🎄   I'm preparing for the the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2024 challenges
     <br/> 
 -->
 *   🌱   I’m currently learning... **AstroJS** & **React Native**
