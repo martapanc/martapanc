@@ -20,10 +20,10 @@
 <img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
 -->
 
-<!-- <br/> 
+<br/> 
 *   🎄   I'm preparing for the the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2024 challenges
     <br/> 
--->
+
 *   🌱   I’m currently learning... **AstroJS** & **React Native**
     <br/>
 *   📝   I'm looking to learn... **Swift for iOS development**.
