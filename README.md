@@ -80,7 +80,9 @@
 
 <br/>
 
+<!--
 ![My stats](https://github-readme-stats.vercel.app/api?username=martapanc\&show_icons=true)
+-->
 
 <h3 align="center">💻 Recent Projects</h3>
 
