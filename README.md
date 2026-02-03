@@ -28,7 +28,7 @@
     <br/>
 *   📝   I'm looking to learn... **Swift for iOS development**.
     <br/>
-*   🌐   Languages I speak... <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" alt="gb" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/it.svg" alt="it" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" alt="de" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/fr.svg" alt="fr" width="35" height="20"/> 
+*   🌐   Languages I speak... <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" alt="gb" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/it.svg" alt="it" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" alt="de" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/fr.svg" alt="fr" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" alt="es" width="35" height="20"/> 
     <br/>
 *   👨‍💻   All my projects are available on [martacodes.it](https://martacodes.it/)
     <br/>
