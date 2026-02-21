@@ -86,9 +86,16 @@
 
 <h3 align="center">💻 Recent Projects</h3>
 
+<!--
 [![Twitch Slack notifier](https://github-readme-stats.vercel.app/api/pin/?username=martapanc\&repo=Twitch-notifier)](https://github.com/martapanc/Twitch-notifier)
 [![My website](https://github-readme-stats.vercel.app/api/pin/?username=martapanc\&repo=martacodes.it)](https://github.com/martapanc/martacodes.it)
 [![Weather Forecast Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=martapanc\&repo=React-Weather-Dashboard)](https://github.com/martapanc/React-Weather-Dashboard)
 [![Italian Fiscal Code App](https://github-readme-stats.vercel.app/api/pin/?username=martapanc\&repo=ItalianFiscalCodeCalculatorApp)](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
+-->
+
+[Twitch Slack notifier](https://github.com/martapanc/Twitch-notifier) | 
+[My website](https://github.com/martapanc/martacodes.it) | 
+[Weather Forecast Dashboard](https://github.com/martapanc/React-Weather-Dashboard) | 
+[Italian Fiscal Code App](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
 
 <h3 align="center"><a href="https://martas-links.vercel.app">🔗 Links</a></h3>
