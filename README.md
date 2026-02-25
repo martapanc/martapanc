@@ -52,8 +52,6 @@
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare,vercel,jenkins,heroku&theme=dark"  alt="Cloud platform skills"/>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare,vercel,jenkins,heroku&theme=dark)](https://skillicons.dev)
-
 <h3>Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git,idea,vscode,sublime,grafana,sentry,docker,figma,notion,apple&theme=dark"  alt="Tools"/>
