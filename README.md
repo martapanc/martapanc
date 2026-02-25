@@ -36,25 +36,25 @@
 <h2 align="center">🛠️ Tech Stack</h3>
 
 
-<h4>Frontend</h4>
+<h3>Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=typescript,javascript,react,angular,vue,nextjs,astro,vite,tailwind,mui,bootstrap&theme=dark"  alt="Frontend skills"/>
 
-<h4>Backend</h4>
+<h3>Backend</h3>
 
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,kotlin,python,django,flask,fastapi,express,graphql,php,cs,net&theme=dark"  alt="Backend skills"/>
 
-<h4>Databases</h4>
+<h3>Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite&theme=dark"  alt="Database skills"/>
 
-<h4>Cloud Platforms</h4>
+<h3>Cloud Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare,vercel,jenkins,heroku&theme=dark"  alt="Cloud platform skills"/>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare,vercel,jenkins,heroku&theme=dark)](https://skillicons.dev)
 
-<h4>Tools</h4>
+<h3>Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git,idea,vscode,sublime,grafana,sentry,docker,figma,notion,apple&theme=dark"  alt="Tools"/>
 
