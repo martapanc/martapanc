@@ -37,18 +37,23 @@
 
 
 <h4>Frontend</h4>
+
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,angular,vue,nextjs,astro,vite,tailwind,mui,bootstrap&theme=dark)](https://skillicons.dev)
 
 <h4>Backend</h4>
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,kotlin,python,django,flask,fastapi,express,graphql,php,cs,net&theme=dark)](https://skillicons.dev)
 
 <h4>Databases</h4>
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite&theme=dark)](https://skillicons.dev)
 
 <h4>Cloud Platforms</h4>
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare,vercel,jenkins,heroku&theme=dark)](https://skillicons.dev)
 
 <h4>Tools</h4>
+
 [![My Skills](https://skillicons.dev/icons?i=git,idea,vscode,sublime,grafana,sentry,docker,figma,notion,apple&theme=dark)](https://skillicons.dev)
 
 <!--
