@@ -2,7 +2,7 @@
     <img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world_terminal.gif" height="220">
 </p>
 
-<h3 align="center">I'm Marta, and I write code for work and for fun.</h3>
+<h3 align="center">I'm Marta. I build software for work and for fun.</h3>
 
 <br/>
 
@@ -21,21 +21,19 @@
 -->
 
 
-*   🎄   I've completed the [**Advent of Code**](https://github.com/martapanc/Advent-of-Code) 2024 challenges - I'm in the 500 stars club! 🤩
+*   🎄   I completed [**Advent of Code 2024**](https://github.com/martapanc/Advent-of-Code) and joined the 500-star club! 🤩
     <br/> 
 
-*   🌱   I’m currently learning... **AstroJS** & **React Native**
+*   🌱   I’m currently learning **Swift for iOS development**.
     <br/>
-*   📝   I'm looking to learn... **Swift for iOS development**.
+*   🌐   Languages I speak: <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" alt="gb" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/it.svg" alt="it" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" alt="de" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/fr.svg" alt="fr" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" alt="es" width="35" height="20"/> 
     <br/>
-*   🌐   Languages I speak... <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" alt="gb" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/it.svg" alt="it" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" alt="de" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/fr.svg" alt="fr" width="35" height="20"/><img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" alt="es" width="35" height="20"/> 
+*   👨‍💻   Explore my projects at [martacodes.it](https://martacodes.it/).
     <br/>
-*   👨‍💻   All my projects are available on [martacodes.it](https://martacodes.it/)
-    <br/>
-*   📫   Reach out to me at **marta_panc AT me.com**
+*   📫   Reach me at **marta_panc AT me.com**.
 
 
-<h3 align="center">🛠️ My skills</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -84,7 +82,7 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=martapanc\&show_icons=true)
 -->
 
-<h3 align="center">💻 Recent Projects</h3>
+<h3 align="center">💻 Featured Projects</h3>
 
 <!--
 [![Twitch Slack notifier](https://github-readme-stats.vercel.app/api/pin/?username=martapanc\&repo=Twitch-notifier)](https://github.com/martapanc/Twitch-notifier)
