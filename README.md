@@ -6,7 +6,12 @@
 
 <br/>
 
-[![Website](https://github.com/martapanc/martapanc/blob/master/icons/www.png)](https://martacodes.it/) 
+<a href="https://martacodes.it/"><img src="https://img.shields.io/badge/Website-martacodes.it-blue?style=for-the-badge&logoColor=white" alt="martacodes.it" /></a>&nbsp;
+<a href="https://things.martacodes.it/blog/"><img src="https://img.shields.io/badge/Blog-003AA0?style=for-the-badge&logoColor=white" alt="martacodes.it" /></a>&nbsp;
+<a href="https://links.martacodes.it/"><img src="https://img.shields.io/badge/Links-5555BB?style=for-the-badge&logoColor=white" alt="martacodes.it" /></a>&nbsp;
+![](https://komarev.com/ghpvc/?username=martapanc&style=for-the-badge)
+
+
 [![Linkedin](https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/) 
 [![Medium](https://github.com/martapanc/martapanc/blob/master/icons/medium.png)](https://medium.com/@marta.panc/) 
 [![Instagram](https://github.com/martapanc/martapanc/blob/master/icons/instagram.png)](https://www.instagram.com/pancakemarta/) 
@@ -14,7 +19,6 @@
 [![Steam](https://github.com/martapanc/martapanc/blob/master/icons/steam.png)](https://steamcommunity.com/id/martap/) 
 [![Codewars](https://github.com/martapanc/martapanc/blob/master/icons/codewars.png)](https://www.codewars.com/users/martapanc/) 
 [![Goodreads](https://github.com/martapanc/martapanc/blob/master/icons/goodreads.png)](https://www.goodreads.com/topolinamarta/) 
-![](https://komarev.com/ghpvc/?username=martapanc)
 
 <!--
 <img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
@@ -38,11 +42,11 @@
 
 <h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,angular,vue,nextjs,astro,vite,tailwind,mui,bootstrap&theme=dark"  alt="Frontend skills"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,angular,vue,nextjs,astro,vite,tailwind,mui&theme=dark"  alt="Frontend skills"/>
 
 <h3>Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,java,spring,kotlin,python,django,flask,fastapi,express,graphql,php,cs,net&theme=dark"  alt="Backend skills"/>
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,kotlin,python,django,flask,fastapi,express,graphql&theme=dark"  alt="Backend skills"/>
 
 <h3>Databases</h3>
 
@@ -60,7 +64,7 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=martapanc\&show_icons=true)
 -->
 
-<h3 align="center">💻 Featured Projects</h3>
+<h2 align="center">💻 Featured Projects</h3>
 
 <!--
 [![Twitch Slack notifier](https://github-readme-stats.vercel.app/api/pin/?username=martapanc\&repo=Twitch-notifier)](https://github.com/martapanc/Twitch-notifier)
@@ -74,4 +78,4 @@
 [Weather Forecast Dashboard](https://github.com/martapanc/React-Weather-Dashboard) | 
 [Italian Fiscal Code App](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
 
-<h3 align="center"><a href="https://links.martacodes.it">🔗 Links</a></h3>
+<h2 align="center"><a href="https://links.martacodes.it">🔗 Links</a></h3>
