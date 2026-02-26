@@ -1,14 +1,14 @@
 <p align="center">
-    <img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world_terminal.gif" height="220">
+    <img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world_terminal.gif" height="160">
 </p>
 
-<h3 align="center">Hi 👋, I'm Marta, and I build software for work and for fun.</h3>
+<h3 align="center">👋 I'm Marta, and I build software for work and for fun.</h3>
 
 <br/>
 
 <a href="https://martacodes.it/"><img src="https://img.shields.io/badge/Website-martacodes.it-blue?style=for-the-badge&logoColor=white" alt="martacodes.it" /></a>&nbsp;
-<a href="https://things.martacodes.it/blog/"><img src="https://img.shields.io/badge/Blog-003AA0?style=for-the-badge&logoColor=white" alt="martacodes.it" /></a>&nbsp;
-<a href="https://links.martacodes.it/"><img src="https://img.shields.io/badge/Links-5555BB?style=for-the-badge&logoColor=white" alt="martacodes.it" /></a>&nbsp;
+<a href="https://things.martacodes.it/blog/"><img src="https://img.shields.io/badge/Blog-003AA0?style=for-the-badge&logoColor=white" alt="Blog" /></a>&nbsp;
+<a href="https://links.martacodes.it/"><img src="https://img.shields.io/badge/Links-5555BB?style=for-the-badge&logoColor=white" alt="links.martacodes.it" /></a>&nbsp;
 ![](https://komarev.com/ghpvc/?username=martapanc&style=for-the-badge)
 
 <br/>
