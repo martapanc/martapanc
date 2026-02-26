@@ -1,17 +1,15 @@
 <p align="center">
-    <img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world_terminal.gif" height="160">
+    <img align="center" src="https://github.com/martapanc/martapanc/raw/master/pics/hello_world_terminal.gif" height="180">
 </p>
 
 <h3 align="center">👋 I'm Marta, and I build software for work and for fun.</h3>
 
 <br/>
 
-<a href="https://martacodes.it/"><img src="https://img.shields.io/badge/Website-martacodes.it-blue?style=for-the-badge&logoColor=white" alt="martacodes.it" /></a>&nbsp;
-<a href="https://things.martacodes.it/blog/"><img src="https://img.shields.io/badge/Blog-003AA0?style=for-the-badge&logoColor=white" alt="Blog" /></a>&nbsp;
-<a href="https://links.martacodes.it/"><img src="https://img.shields.io/badge/Links-5555BB?style=for-the-badge&logoColor=white" alt="links.martacodes.it" /></a>&nbsp;
+<a href="https://martacodes.it/" target="_blank"><img src="https://img.shields.io/badge/Website-martacodes.it-blue?style=for-the-badge&logoColor=white" alt="martacodes.it" /></a>&nbsp;
+<a href="https://things.martacodes.it/blog/" target="_blank"><img src="https://img.shields.io/badge/Blog-003AA0?style=for-the-badge&logoColor=white" alt="Blog" /></a>&nbsp;
+<a href="https://links.martacodes.it/" target="_blank"><img src="https://img.shields.io/badge/Links-5555BB?style=for-the-badge&logoColor=white" alt="links.martacodes.it" /></a>&nbsp;
 ![](https://komarev.com/ghpvc/?username=martapanc&style=for-the-badge)
-
-<br/>
 
 <a href="https://linkedin.com/in/martapancaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@pancakemarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="YouTube" height="30" width="30" /></a>
