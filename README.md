@@ -11,19 +11,16 @@
 <a href="https://links.martacodes.it/"><img src="https://img.shields.io/badge/Links-5555BB?style=for-the-badge&logoColor=white" alt="martacodes.it" /></a>&nbsp;
 ![](https://komarev.com/ghpvc/?username=martapanc&style=for-the-badge)
 
+<br/>
 
-[![Linkedin](https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/martapancaldi/) 
-[![Medium](https://github.com/martapanc/martapanc/blob/master/icons/medium.png)](https://medium.com/@marta.panc/) 
-[![Instagram](https://github.com/martapanc/martapanc/blob/master/icons/instagram.png)](https://www.instagram.com/pancakemarta/) 
-[![Youtube](https://github.com/martapanc/martapanc/blob/master/icons/youtube.png)](https://www.youtube.com/channel/UCvQWDSKE8fY7srB8hO1vWNw) 
-[![Steam](https://github.com/martapanc/martapanc/blob/master/icons/steam.png)](https://steamcommunity.com/id/martap/) 
-[![Codewars](https://github.com/martapanc/martapanc/blob/master/icons/codewars.png)](https://www.codewars.com/users/martapanc/) 
-[![Goodreads](https://github.com/martapanc/martapanc/blob/master/icons/goodreads.png)](https://www.goodreads.com/topolinamarta/) 
+<a href="https://linkedin.com/in/martapancaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.youtube.com/@pancakemarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="YouTube" height="30" width="30" /></a>
+<a href="https://www.instagram.com/pancakemarta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" height="30" width="30" /></a>
+<a href="https://medium.com/@marta.panc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Medium" height="30" width="30" /></a>
+<a href="https://steamcommunity.com/id/martap/" target="blank"><img align="center" src="https://github.com/martapanc/martapanc/blob/master/icons/steam.png?raw=true" alt="Steam" height="30" width="30" /></a>
+<a href="https://www.goodreads.com/topolinamarta/" target="blank"><img align="center" src="https://github.com/martapanc/martapanc/blob/master/icons/goodreads.png?raw=true" alt="Goodreads" height="30" width="30" /></a>
 
-<!--
-<img align="right" src="https://github.com/martapanc/martapanc/raw/master/pics/octocat-flipped.png" width="240" height="240">
--->
-
+<br/>
 
 *   🎄   I completed [**Advent of Code 2024**](https://github.com/martapanc/Advent-of-Code) and joined the 500-star club! 🤩
     <br/> 
@@ -77,5 +74,3 @@
 [My website](https://github.com/martapanc/martacodes.it) | 
 [Weather Forecast Dashboard](https://github.com/martapanc/React-Weather-Dashboard) | 
 [Italian Fiscal Code App](https://github.com/martapanc/ItalianFiscalCodeCalculatorApp)
-
-<h2 align="center"><a href="https://links.martacodes.it">🔗 Links</a></h3>
