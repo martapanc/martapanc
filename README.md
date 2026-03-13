@@ -73,3 +73,5 @@
 <a href="https://github.com/martapanc/React-Weather-Dashboard" target="_blank"><img src="https://img.shields.io/badge/React Weather Dashboard-162485?style=for-the-badge&logoColor=white" alt="React Weather Dashboard" /></a>&nbsp;
 <a href="https://github.com/martapanc/astro-rift" target="_blank"><img src="https://img.shields.io/badge/astrorift blog template-FE8227?style=for-the-badge&logoColor=white" alt="astro-rift" /></a>&nbsp;
 <a href="https://github.com/martapanc/ItalianFiscalCodeCalculatorApp" target="_blank"><img src="https://img.shields.io/badge/Italian Fiscal Code Calculator App-A0C036?style=for-the-badge&logoColor=white" alt="ItalianFiscalCodeCalculatorApp" /></a>&nbsp;
+<a href="https://github.com/martapanc/Advent-of-Code" target="_blank"><img src="https://img.shields.io/badge/Advent of Code-009900?style=for-the-badge&logoColor=white" alt="Advent of Code" /></a>&nbsp;
+
