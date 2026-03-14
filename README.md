@@ -70,7 +70,7 @@
 
 <a href="https://github.com/martapanc/Twitch-notifier" target="_blank"><img src="https://img.shields.io/badge/Twitch to Slack Notifier-9247FF?style=for-the-badge&logoColor=white" alt="Twitch to Slack notifier" /></a>&nbsp; 
 <a href="https://github.com/martapanc/martacodes.it" target="_blank"><img src="https://img.shields.io/badge/My Website-1651C0?style=for-the-badge&logoColor=white" alt="My Website" /></a>&nbsp;
-<a href="https://github.com/martapanc/things.martacodes.it-astro" target="_blank"><img src="https://img.shields.io/badge/My Blog / Digital Garden-17A1F3?style=for-the-badge&logoColor=white" alt="things.martacodes.it" /></a>&nbsp;
+<a href="https://github.com/martapanc/things.martacodes.it-astro" target="_blank"><img src="https://img.shields.io/badge/My Blog / Digital Garden-1787F3?style=for-the-badge&logoColor=white" alt="things.martacodes.it" /></a>&nbsp;
 <a href="https://github.com/martapanc/React-Weather-Dashboard" target="_blank"><img src="https://img.shields.io/badge/React Weather Dashboard-162485?style=for-the-badge&logoColor=white" alt="React Weather Dashboard" /></a>&nbsp;
 <a href="https://github.com/martapanc/astro-rift" target="_blank"><img src="https://img.shields.io/badge/astrorift blog template-FE8227?style=for-the-badge&logoColor=white" alt="astro-rift" /></a>&nbsp;
 <a href="https://github.com/martapanc/ItalianFiscalCodeCalculatorApp" target="_blank"><img src="https://img.shields.io/badge/Italian Fiscal Code Calculator App-A0C036?style=for-the-badge&logoColor=white" alt="ItalianFiscalCodeCalculatorApp" /></a>&nbsp;
