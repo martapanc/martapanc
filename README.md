@@ -20,7 +20,7 @@
 
 <br/>
 
-*   🎄   I completed [**Advent of Code 2015-2025**](https://github.com/martapanc/Advent-of-Code) and joined the 524-star club! 🤩
+*   🎄   I completed the [**Advent of Code 2015-2025**](https://github.com/martapanc/Advent-of-Code) challenges and joined the 524-star club! 🤩
     <br/> 
 
 *   🌱   I’m currently learning **Swift for iOS development**.
