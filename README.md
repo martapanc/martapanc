@@ -11,10 +11,10 @@
 <a href="https://links.martacodes.it/" target="_blank"><img src="https://img.shields.io/badge/Links-5555BB?style=for-the-badge&logoColor=white" alt="links.martacodes.it" /></a>&nbsp;
 ![](https://komarev.com/ghpvc/?username=martapanc&style=for-the-badge)
 
-<a href="https://linkedin.com/in/martapancaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@pancakemarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="YouTube" height="30" width="30" /></a>
-<a href="https://www.instagram.com/pancakemarta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" height="30" width="30" /></a>
-<a href="https://medium.com/@marta.panc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Medium" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/martapancaldi" target="blank"><img align="center" src="https://github.com/martapanc/martapanc/blob/master/icons/linkedin.png?raw=true" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.instagram.com/pancakemarta/" target="blank"><img align="center" src="https://github.com/martapanc/martapanc/blob/master/icons/instagram.png?raw=true" alt="Instagram" height="30" width="30" /></a>
+<a href="https://medium.com/@marta.panc/" target="blank"><img align="center" src="https://github.com/martapanc/martapanc/blob/master/icons/medium.png?raw=true" alt="Medium" height="30" width="30" /></a>
+<a href="https://www.youtube.com/@pancakemarta" target="blank"><img align="center" src="https://github.com/martapanc/martapanc/blob/master/icons/youtube.png?raw=true" alt="YouTube" height="30" width="30" /></a>
 <a href="https://steamcommunity.com/id/martap/" target="blank"><img align="center" src="https://github.com/martapanc/martapanc/blob/master/icons/steam.png?raw=true" alt="Steam" height="30" width="30" /></a>
 <a href="https://www.goodreads.com/topolinamarta/" target="blank"><img align="center" src="https://github.com/martapanc/martapanc/blob/master/icons/goodreads.png?raw=true" alt="Goodreads" height="30" width="30" /></a>
 
